@@ -1,6 +1,6 @@
 This repository holds the PyTorch code for the paper
 
-**A Generalizable Causal-Invariance-Driven Segmentation Model for Peripancreatic Vessels **
+**A Generalizable Causal-Invariance-Driven Segmentation Model for Peripancreatic Vessels**
 
 All the materials released in this library can ONLY be used for RESEARCH purposes and not for commercial use.
 
